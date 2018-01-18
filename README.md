@@ -16,10 +16,11 @@ _Bruce Wayne_
 ![2](./png/2.png)
 ![3](./png/3.png)
 ![5](./png/5.png)
+![8](./png/8.png)
 ![13](./png/13.png)
-![20](./png/20.png)
+![21](./png/21.png)
 ![40](./png/40.png)
 ![100](./png/100.png)
-![?](./png/?.png)
+![?](./png/question.png)
 ![infinity](./png/infinity.png)
 
